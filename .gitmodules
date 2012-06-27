@@ -1,0 +1,3 @@
+[submodule "vendor/nexmo-php-lib"]
+	path = vendor/nexmo-php-lib
+	url = git://github.com/prawnsalad/Nexmo-PHP-lib.git
